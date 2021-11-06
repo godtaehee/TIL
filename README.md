@@ -9,3 +9,5 @@
 - [[WEEK1] Aimmo 기술과제를 마치고..](https://medium.com/@godtaehee/week1-aimmo-%EA%B8%B0%EC%88%A0%EA%B3%BC%EC%A0%9C%EB%A5%BC-%EB%A7%88%EC%B9%98%EA%B3%A0-67fffb08b47b)
 
 - [Neo4j와 Graph Data Platforms](https://medium.com/@godtaehee/439fe012aaa4)
+
+- [생에 첫 100일 연속 커밋 후기](https://medium.com/@godtaehee/%EC%83%9D%EC%97%90-%EC%B2%AB-100%EC%9D%BC-%EC%97%B0%EC%86%8D-%EC%BB%A4%EB%B0%8B-%ED%9B%84%EA%B8%B0-85ed6cd94f17)
