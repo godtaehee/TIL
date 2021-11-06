@@ -11,3 +11,5 @@
 - [Neo4j와 Graph Data Platforms](https://medium.com/@godtaehee/439fe012aaa4)
 
 - [생에 첫 100일 연속 커밋 후기](https://medium.com/@godtaehee/%EC%83%9D%EC%97%90-%EC%B2%AB-100%EC%9D%BC-%EC%97%B0%EC%86%8D-%EC%BB%A4%EB%B0%8B-%ED%9B%84%EA%B8%B0-85ed6cd94f17)
+
+- [어떤 사람이 되고 싶었던 걸까 🤔](https://medium.com/me/stats/post/bdaeaa61a6d3)
