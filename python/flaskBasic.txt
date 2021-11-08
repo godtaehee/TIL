@@ -1,0 +1,3 @@
+ource active -> 가상환경 활성화 deactive -> 비활성화 pip freeze -> 가상환경내에 패키지설치된거 리스트확인 의존성들 requirement.txt로 바로 복붙가능하게하는 pip freeze > requirements.txt
+
+pip install Flask로 설치하면 끝
