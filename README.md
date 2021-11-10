@@ -13,3 +13,5 @@
 - [생에 첫 100일 연속 커밋 후기](https://medium.com/@godtaehee/%EC%83%9D%EC%97%90-%EC%B2%AB-100%EC%9D%BC-%EC%97%B0%EC%86%8D-%EC%BB%A4%EB%B0%8B-%ED%9B%84%EA%B8%B0-85ed6cd94f17)
 
 - [어떤 사람이 되고 싶었던 걸까 🤔](https://medium.com/me/stats/post/bdaeaa61a6d3)
+
+- [Refactoring 2nd Edition 스터디를 마치고..](https://medium.com/@godtaehee/refactoring-2nd-edition-%EC%8A%A4%ED%84%B0%EB%94%94%EB%A5%BC-%EB%A7%88%EC%B9%98%EA%B3%A0-cfb3edfe6f04)
