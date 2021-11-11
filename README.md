@@ -15,3 +15,5 @@
 - [어떤 사람이 되고 싶었던 걸까 🤔](https://medium.com/me/stats/post/bdaeaa61a6d3)
 
 - [Refactoring 2nd Edition 스터디를 마치고..](https://medium.com/@godtaehee/refactoring-2nd-edition-%EC%8A%A4%ED%84%B0%EB%94%94%EB%A5%BC-%EB%A7%88%EC%B9%98%EA%B3%A0-cfb3edfe6f04)
+
+- [[WEEK 2] Wanted 과제를 마치고..](https://medium.com/@godtaehee/week-2-wanted-%EA%B3%BC%EC%A0%9C%EB%A5%BC-%EB%A7%88%EC%B9%98%EA%B3%A0-41fa8998a4db)
