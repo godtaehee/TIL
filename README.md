@@ -19,3 +19,4 @@
 - [[WEEK 2] Wanted 과제를 마치고..](https://medium.com/@godtaehee/week-2-wanted-%EA%B3%BC%EC%A0%9C%EB%A5%BC-%EB%A7%88%EC%B9%98%EA%B3%A0-41fa8998a4db)
 
 - [[WEEK 2] 8퍼센트 과제를 마치고..](https://medium.com/@godtaehee/week-2-8%ED%8D%BC%EC%84%BC%ED%8A%B8-%EA%B3%BC%EC%A0%9C%EB%A5%BC-%EB%A7%88%EC%B9%98%EA%B3%A0-bfa973117985)
+- [[리얼월드 HTTP] 스터디 1주차 ~ 20p](https://medium.com/@godtaehee/%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-http-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8-20p-7c6aa9983caf)
